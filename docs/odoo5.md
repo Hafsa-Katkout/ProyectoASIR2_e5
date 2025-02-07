@@ -7,7 +7,7 @@ Después de instalar Odoo en nuestra máquina virtual y configurar correctamente
 Tras completar estos pasos, accedemos a nuestro dominio'electroshop-e5.ddns.net' configurado con **No-IP**, el cual dirige la petición al **proxy inverso** que a su vez redirige la solicitud a la máquina donde instalamos Odoo. Esto nos lleva a la página de acceso del sistema, donde iniciamos sesión con las siguientes credenciales:
 
 - **Correo electrónico**: `odoo5@electroshop.com`
-- **Contraseña**: `usuario@E4`
+- **Contraseña**: `usuario@E5`
 
 ---
 
