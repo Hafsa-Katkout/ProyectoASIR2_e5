@@ -7,24 +7,24 @@ En este aparatado crearemos varias compras para posteriormente tener el stock su
 
 Lo primero que tendremos que hacer será acceder al apartado de **compras**.
 
-![](./IMG/menuc.png)
+![](./IMGUlises/menuc.png)
 
 De seguido empezaremos con la creacion de las compras.
 
-![](./IMG/crearv.png)
+![](./IMGUlises/crearv.png)
 
 Para realizar la compra tendremos que crear una solicitud de **presupuesto** a una empresa externa y este paso lo realizaremos varias veces como para poder tener el stock necesario.
 
-![](./IMG/compra1.jfif)
+![](./IMGUlises/compra1.jfif)
 
-![](./IMG/compra2.png)
+![](./IMGUlises/compra2.png)
 
-![](./IMG/compra3.png)
+![](./IMGUlises/compra3.png)
 
 Y este sría el resultado de las compras.
 
-![](./IMG/resc.png)
+![](./IMGUlises/resc.png)
 
 Una vez realizadas las compras nos quedaria el **inventario** de la siguiente manera.
 
-![](./IMG/productos.png)
+![](./IMGUlises/productos.png)
