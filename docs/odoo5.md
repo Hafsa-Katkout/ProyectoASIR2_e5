@@ -1,5 +1,5 @@
 # **Configuración en Odoo5: Información General de la Empresa, Instalación de Idiomas y Módulos**
-
+### Asignado a Hafsa Katkout Aabil.
 ## **Introducción**
 
 Después de instalar Odoo en nuestra máquina virtual y configurar correctamente los servicios necesarios, procedemos a realizar los primeros pasos de configuración. Odoo es un **ERP (Enterprise Resource Planning)** que permite gestionar de manera integrada diferentes áreas de la empresa. Su funcionamiento se basa en la instalación de módulos que cubren aspectos esenciales como ventas, compras, inventario, recursos humanos y contabilidad. 

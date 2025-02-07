@@ -1,4 +1,4 @@
-# Paso 5.- Gestión de una venta: Pedidos de clientes
+# Gestión de una venta: Pedidos de clientes
 
 #### Asignado a Ulises Cuadrado García
 

@@ -1,4 +1,4 @@
-#  Paso 4.-  Gestión de una compra: Pedidos a proveedores
+#  Gestión de una compra: Pedidos a proveedores
 #### Asignado a Ulises Cuadrado García
 
 ## Gestión de compras

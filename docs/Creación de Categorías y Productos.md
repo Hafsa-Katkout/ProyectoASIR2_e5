@@ -1,5 +1,7 @@
 # Creación de Categorías y Productos en ODoo
 
+#### Asignado a Ángel Herrera Allende.
+
 ## Introducción
 En este documento voy a explicar los pasos que he realizado para la creación de las categorías y luego poner productos en estas.
 
