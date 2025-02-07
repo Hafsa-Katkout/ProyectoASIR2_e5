@@ -1,1 +1,9 @@
 site_name: Actividad8-1-eq5
+
+nav:
+  - Home: index.md
+  - mkdocs: mkdocs.md
+  - coolapso: coolapso.md
+  - tutoguho: tutohugo.md
+
+theme: readthedocs
