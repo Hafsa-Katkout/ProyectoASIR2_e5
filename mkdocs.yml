@@ -1,9 +1,11 @@
 site_name: Actividad8-1-eq5
 
 nav:
-  - Home: index.md
-  - mkdocs: mkdocs.md
-  - coolapso: coolapso.md
-  - tutoguho: tutohugo.md
+  - Home: index.md 
+  - Datos de la empresa , instalación de modulos y idiomas: odoo5.md
+  - Creacion de los usuarios: miguel.md
+  - Creación de Categorias y Productos: Creación de Categorías y Productos.md
+  - Compras: compras.md
+  - Ventas: ventas.md
 
 theme: readthedocs
